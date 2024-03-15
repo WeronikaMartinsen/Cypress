@@ -1,0 +1,19 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "This is a test for cypress task.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeronikaMartinsen/Cypress.git"
+  },
+  "author": "Weronika Martinsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeronikaMartinsen/Cypress/issues"
+  },
+  "homepage": "https://github.com/WeronikaMartinsen/Cypress#readme"
+}
